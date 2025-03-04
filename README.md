@@ -24,7 +24,7 @@ The trained Random Forest model is too large to be stored in this repository. Yo
 The Random Forest model achieved an **accuracy of 85.65%** on the test dataset. Here are the key evaluation metrics:
 
 
-
+![Model Performance](Accuracy.PNG)
 
 
 
